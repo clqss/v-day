@@ -8,6 +8,7 @@ body {
     background-color: #FFE4E8;
     font-family: 'Nunito', sans-serif;
     min-height: 100vh;
+    max-width:100%
     display: flex;
     justify-content: center;
     align-items: center;
