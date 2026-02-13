@@ -1,24 +1,23 @@
 const gifStages = [
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0Pvnp7dri3UZ4MpZEDamiW7VF3MXs3_iSw&s",    // 0 shatter
-    "https://media.tenor.com/rPiWjOBkoO0AAAAj/cinnamoroll-sanrio.gif",    // 1 shatter
-    "https://media.tenor.com/nPZmKB04o_sAAAAj/cinnamoroll.gif",  // 2 waaa
-    "https://media.tenor.com/YU3mvP2PzdsAAAAj/sanrio.gif",  // 3 about to cry
-    "https://media.tenor.com/ggokQeI5AMMAAAAj/sanrio-white.gif", // 4 cry
-    "https://media.tenor.com/WMhWacfoZWgAAAAj/minipini.gif",       // 5 shake
-    "https://c.tenor.com/apWeoyOOvtUAAAAd/tenor.gif",   // 6 devastated
-    "https://c.tenor.com/3AkI0IyP0QgAAAAd/tenor.gif",  // 7 daze
+    "https://c.tenor.com/tu8hB6hlyqsAAAAd/tenor.gif",    // 0 no
+    "https://c.tenor.com/nrUSvJyyjOkAAAAd/tenor.gif",    // 1 muuu
+    "https://c.tenor.com/YmJP56Fgg2QAAAAd/tenor.gif",  // 2 pengiun
+    "https://c.tenor.com/Gn1wfkfGNRUAAAAd/tenor.gif",  // 3 tomoyo
+    "https://c.tenor.com/JyIKVVJDP0QAAAAd/tenor.gif", // 4 sparkle
+    "https://c.tenor.com/piu7iJuT8i8AAAAd/tenor.gif",       // 5 preach
+    "https://c.tenor.com/X2sc5wL8Qo0AAAAd/tenor.gif",   // 6 nodd
+    "https://c.tenor.com/NpAcs65uXuUAAAAd/tenor.gif",  // 7 Stuff
 ]
 
 const noMessages = [
     "No",
-    "Le gasp! 😲",
+    "Muuu! 😲",
     "But pro que? 🥺",
-    "If you say no, I will be really sad...😢",
-    "Whhyyyyy? 😭",
-    "Pretty, please??? 💔",
-    "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "You know you love me!!!! 😉",
+    "We are ✨MEANT✨ to be!",
+    "Why deny our love? 💔",
+    "Everyone agrees! 😏",
+    "So STFU and aceppt it!😜"
 ]
 
 const yesTeasePokes = [
@@ -34,7 +33,7 @@ let noClickCount = 0
 let runawayEnabled = false
 let musicPlaying = true
 
-const catGif = document.getElementById('i-cinna')
+const catGif = document.getElementById('ccs')
 const yesBtn = document.getElementById('yes-btn')
 const noBtn = document.getElementById('no-btn')
 const music = document.getElementById('bg-music')
