@@ -6,7 +6,7 @@ const gifStages = [
     "https://c.tenor.com/JyIKVVJDP0QAAAAd/tenor.gif", // 4 sparkle
     "https://c.tenor.com/piu7iJuT8i8AAAAd/tenor.gif",       // 5 preach
     "https://c.tenor.com/X2sc5wL8Qo0AAAAd/tenor.gif",   // 6 nodd
-    "https://c.tenor.com/NpAcs65uXuUAAAAd/tenor.gif",  // 7 Stuff
+    "https://c.tenor.com/NpAcs65uXuUAAAAd/tenor.gif"  // 7 Stuff
 ]
 
 const noMessages = [
